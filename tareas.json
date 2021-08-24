@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "mirar tv",
+        "estado": "terminada"
+    }
+    ,{
+        "titulo": "jugar al futbol con Messi ",
+        "estado": "pendiente"
+    }
+    ,{
+        "titulo": "caminar en la luna ",
+        "estado": "en progreso"
+    }
+]
